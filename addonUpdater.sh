@@ -11,6 +11,7 @@ addons=(
   "https://www.curseforge.com/wow/addons/ealign-updated/download"
   "https://www.curseforge.com/wow/addons/enhanced-raid-frames/download"
   "https://www.curseforge.com/wow/addons/exorsus-raid-tools/download"
+  "https://www.curseforge.com/wow/addons/omni-cc/download" 
   "https://www.curseforge.com/wow/addons/pitbull-unit-frames-4-0/download"
   "https://www.curseforge.com/wow/addons/rclootcouncil/download"
   "https://www.curseforge.com/wow/addons/tellmewhen/download"
